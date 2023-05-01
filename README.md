@@ -1,2 +1,2 @@
 # CSE165-Project1
-You can download built .apk file from the releases
+Built .apk file is published as a release. 
